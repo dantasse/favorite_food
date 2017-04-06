@@ -1,0 +1,28 @@
+starting tweet_austin.csv
+done with tweet_austin.csv
+starting tweet_chicago.csv
+done with tweet_chicago.csv
+starting tweet_cleveland.csv
+done with tweet_cleveland.csv
+starting tweet_miami.csv
+done with tweet_miami.csv
+starting tweet_ny.csv
+done with tweet_ny.csv
+starting tweet_pgh.csv
+done with tweet_pgh.csv
+starting tweet_sf.csv
+done with tweet_sf.csv
+tweet_austin.csv
+[('pecan', 0.4005461993627674), ('barbecue', 0.3803806734992679), ('doughnut', 0.237485779294653), ('marionberry', 0.23529411764705882), ('brisket', 0.2223950233281493), ('tamale', 0.21664050235478807), ('onion', 0.19688195991091315), ('walnut', 0.16634050880626222), ('tortilla', 0.16049382716049382), ('sausage', 0.14878353087960075)]
+tweet_pgh.csv
+[('pierogi', 0.40599001663893514), ('boysenberry', 0.3023255813953488), ('pawpaw', 0.29166666666666663), ('plum', 0.2640345465761875), ('biscotti', 0.26246719160104987), ('torte', 0.26153846153846155), ('jello', 0.2532005689900427), ('coleslaw', 0.2528735632183908), ('sauerkraut', 0.24124513618677043), ('mints', 0.24018475750577367)]
+tweet_chicago.csv
+[('yolk', 0.7385358004827031), ('curds', 0.6101694915254238), ('peapod', 0.5454545454545454), ('nectarine', 0.5077519379844961), ('tamale', 0.43014128728414447), ('hamburger', 0.387248322147651), ('pancake', 0.375), ('noodles', 0.3687922421392889), ('marmalade', 0.36082474226804123), ('sprinkles', 0.3411705852926463)]
+tweet_sf.csv
+[('cassava', 0.7771084337349398), ('dosa', 0.6965174129353233), ('sourdough', 0.6404230317273796), ('marionberry', 0.5882352941176471), ('loquat', 0.5555555555555556), ('clam', 0.5275590551181103), ('durian', 0.4761904761904762), ('pomelo', 0.45333333333333337), ('mochi', 0.4243792325056433), ('popovers', 0.4074074074074074)]
+tweet_miami.csv
+[('breadfruit', 0.75), ('coconut', 0.6866862457170827), ('ceviche', 0.6792908944399677), ('carpaccio', 0.6638036809815951), ('dairy', 0.5237693389592124), ('guava', 0.5191897654584222), ('meat', 0.3820615638636632), ('orange', 0.3711128455818921), ('flan', 0.34104938271604934), ('lime', 0.3388683886838868)]
+tweet_cleveland.csv
+[('barley', 0.39926590538336054), ('wasabi', 0.33514165159734777), ('roll', 0.21702226038707972), ('maize', 0.1744186046511628), ('loaf', 0.16812100058173357), ('pawpaw', 0.16666666666666666), ('pomelo', 0.16), ('cloves', 0.1566265060240964), ('fruitcake', 0.14864864864864866), ('sherbet', 0.14285714285714285)]
+tweet_ny.csv
+[('artichoke', 0.7681017612524461), ('papaya', 0.7311220889202541), ('prune', 0.7246376811594203), ('meatball', 0.651476067641158), ('lox', 0.6474428726877041), ('millet', 0.6039603960396039), ('falafel', 0.600547195622435), ('kebab', 0.5714285714285715), ('pumpernickel', 0.5673758865248226), ('anchovy', 0.5533333333333333)]
